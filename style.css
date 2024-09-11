@@ -1,0 +1,34 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: antiquewhite;
+}
+
+header{
+    margin: 0%;
+    padding: 0%;
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    border-bottom: 2px solid black;
+}
+.head{
+    height: 300px;
+    background-color: aquamarine;
+
+}
+
+.main{
+    background-color: aliceblue;
+    align-items: center;
+    
+}
+
+footer{
+    height: 100px;
+    background-color: black;
+}
+
+
+
+
